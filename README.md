@@ -32,3 +32,6 @@ res5: Ja, is goed
 
 req6: S
 Res6: Nee, helaas
+
+
+req7: R
