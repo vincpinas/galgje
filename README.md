@@ -3,6 +3,7 @@
 ## Te raden woord
 
 |H|A|A|R|D|
+|-|-|-|-|-|
 |H|A|A|R|D|
 |1|2|3|4|5|
 
