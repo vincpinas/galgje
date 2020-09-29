@@ -2,8 +2,8 @@
 
 ## Te raden woord
 
-|.|.|.|.|.|
-|H|A|A|R||
+|H|A|A|R|D|
+|H|A|A|R|D|
 |1|2|3|4|5|
 
 ## Score
@@ -43,3 +43,4 @@ res8: Nee, helaas
 
 
 req9: D
+res9: Ja, goed
