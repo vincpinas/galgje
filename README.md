@@ -28,3 +28,6 @@ res4: Nee, helaas
 
 req5: A
 res5: Ja, is goed
+
+
+req6: S
