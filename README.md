@@ -3,7 +3,7 @@
 ## Te raden woord
 
 |.|.|.|.|.|
-|-|-|-|-|-|
+|H|-|-|-|-|
 |1|2|3|4|5|
 
 ## Score
@@ -19,7 +19,8 @@ res2: Nee, helaas
 
 
 req3: H
-res3: Nee, helaas  
+res3: Ja, goed  
 
 
-req4: o
+req4: O
+res4: Nee, helaas
