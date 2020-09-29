@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 req1: M
@@ -38,4 +38,5 @@ req7: R
 res7: Ja, is goed
 
 
-req8: y
+req8: Y
+res8: Nee, helaas
